@@ -51,11 +51,11 @@ C:\Projects\Studying\GeekShopping\GeekShopping.WebApplication\obj\Debug\net6.0\r
 C:\Projects\Studying\GeekShopping\GeekShopping.WebApplication\obj\Debug\net6.0\GeekShopping.WebApplication.pdb
 C:\Projects\Studying\GeekShopping\GeekShopping.WebApplication\obj\Debug\net6.0\GeekShopping.WebApplication.genruntimeconfig.cache
 C:\Projects\Studying\GeekShopping\GeekShopping.WebApplication\obj\Debug\net6.0\ref\GeekShopping.WebApplication.dll
-C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\appsettings.Development.json
-C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\appsettings.json
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.Api.deps.json
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.Api.runtimeconfig.json
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.Api.exe
+C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\appsettings.Development.json
+C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\appsettings.json
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.WebApplication.staticwebassets.runtime.json
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.WebApplication.exe
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\GeekShopping.WebApplication.deps.json
@@ -104,3 +104,5 @@ C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\obj\Debug\net6
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\obj\Debug\net6.0\GeekShopping.WebApplication.pdb
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\obj\Debug\net6.0\GeekShopping.WebApplication.genruntimeconfig.cache
 C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\obj\Debug\net6.0\ref\GeekShopping.WebApplication.dll
+C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Projects\Studying\GeekShopping\src\GeekShopping.WebApplication\bin\Debug\net6.0\System.Security.Permissions.dll
